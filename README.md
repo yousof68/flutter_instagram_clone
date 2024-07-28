@@ -2,7 +2,6 @@
 
 This project is an Instagram clone built using Flutter and Firebase services. It aims to replicate some of the core functionalities and UI elements of the Instagram app while integrating Firebase for backend services.
 
-## Tutorial : https://www.youtube.com/playlist?list=PLNtn1FgzEKBBSHG6noFTyTTSas5oNn5t0
 
 ## Features
 
